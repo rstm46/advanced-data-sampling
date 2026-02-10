@@ -1,3 +1,5 @@
+--Задание 1
+
 INSERT INTO genres (name) VALUES 
 							('Rock'), 
 							('Pop'), 
