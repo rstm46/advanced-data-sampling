@@ -20,7 +20,7 @@ INSERT INTO albums (name, release_year) VALUES
 							('Metallica', 1991);
 
 
-INSERT INTO tracks (name, duration, album_id) VALUES 
+INSERT INTO tracks (name, duration, album_id) VALUES
 							('Smells Like Teen Spirit', 301, 1),
 							('Poker Face', 238, 2),
 							('Unaccommodating', 217, 3),
@@ -28,7 +28,13 @@ INSERT INTO tracks (name, duration, album_id) VALUES
 							('Good Morning', 195, 4),
 							('Stronger', 312, 4),
 							('my frend of misery', 410, 5),
-							('Sad by True', 325, 5);
+							('Sad by True', 325, 5),
+							('myself', 305, 1), 
+							('by myself', 295, 2), 
+							('bemy self', 300, 3), 
+							('myself by', 315, 4), 
+							('beemy', 320, 5), 
+							('premyne', 350, 5);
 
 
 INSERT INTO collection (name, release_year) VALUES
